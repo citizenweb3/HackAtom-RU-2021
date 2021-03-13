@@ -33,3 +33,10 @@ Seeda and endpoints
 - gRPC: https://grpc.althea.hub.hackatom.org
 - Faucet: https://faucet.althea.hub.hackatom.org
 - Seeds: 63e208114d3198ebc1c34237270912f0aad4db3e@35.229.98.53:30223,7e070bbede3e8e66590efe61602116315766014e@34.73.191.112:32208
+
+#### Bostrom (cyber) - v0.2.0-alpha1
+- RPC: 167.172.103.118:26657
+- REST: 167.172.103.118:1317
+- gRPC: 167.172.103.118:9090
+- Faucet: ```rly testnets request bostromdev-1 <name> --url http://167.172.103.118:8000```
+- Seeds: 444b1df99e031bafcdf6d421017c187c5491d704@167.172.103.118:26656,5f6a49a68abc391a07b76eedf253b64a2d87f2fa@167.172.99.185:26656
