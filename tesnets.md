@@ -1,6 +1,6 @@
 ## Testnets 
 
-Seeda and endpoints
+Seeds and endpoints
 - [Gaia](#gaia---v410) 
 - [CosmWasmd](#cosmwasmd-wasmd---v0160-alpha1)
 - [Ethermint](#ethermint---freddystargate-integration-fix-branch)
