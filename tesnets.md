@@ -5,6 +5,8 @@ Seeds and endpoints
 - [CosmWasmd](#cosmwasmd-wasmd---v0160-alpha1)
 - [Ethermint](#ethermint---freddystargate-integration-fix-branch)
 - [Althea](#althea-gravity-bridge---v004-running-fullnodes-and-faucet-only---using-existing-testnet-althea-testnet1v4)
+- [Bostrom]()
+- [Nyancat]()
 
 #### Gaia - v4.1.0
 - RPC: https://gaia.hub.hackatom.org or https://rpc.gaia.hub.hackatom.org
@@ -40,3 +42,8 @@ Seeds and endpoints
 - gRPC: 167.172.103.118:9090
 - Faucet: ```rly testnets request bostromdev-1 <name> --url http://167.172.103.118:8000```
 - Seeds: 444b1df99e031bafcdf6d421017c187c5491d704@167.172.103.118:26656,5f6a49a68abc391a07b76eedf253b64a2d87f2fa@167.172.99.185:26656
+
+#### Nyancat testnet:
+- REST: http://35.234.10.84:1317/swagger/
+- GRPC: 35.234.10.84:1317:9090
+- RPC: http://35.234.10.84:26657/
