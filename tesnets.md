@@ -5,8 +5,8 @@ Seeds and endpoints
 - [CosmWasmd](#cosmwasmd-wasmd---v0160-alpha1)
 - [Ethermint](#ethermint---freddystargate-integration-fix-branch)
 - [Althea](#althea-gravity-bridge---v004-running-fullnodes-and-faucet-only---using-existing-testnet-althea-testnet1v4)
-- [Bostrom]()
-- [Nyancat]()
+- [Bostrom](#bostrom-cyber---v020-alpha1)
+- [Nyancat](#nyancat-testnet)
 
 #### Gaia - v4.1.0
 - RPC: https://gaia.hub.hackatom.org or https://rpc.gaia.hub.hackatom.org
